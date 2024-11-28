@@ -89,7 +89,7 @@ span{
 }
 /**box6*/
 .nav-cart i{
-   font-size: 30px;
+   font-size: 2px;
 }
 .nav-cart{
     font-size: 0.85rem ;
@@ -120,7 +120,6 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
-
 /****/
 .hero-section{
     background-image: url("/hero_image.jpg");
