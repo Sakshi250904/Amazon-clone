@@ -1,2 +1,3 @@
-This is my Amazon clone project
-Author: Sakshi 
+This is my Amazon Clone Project
+<br>
+Author: Sakshi Shinde
